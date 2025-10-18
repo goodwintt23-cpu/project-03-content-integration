@@ -8,7 +8,7 @@
 
 ___
 
-**Инструменты и нотации:** UML Sequence (draw.io), **REST/Swagger**, **Postman** (проверка запросов), Markdown.
+**Инструменты и нотации:** UML Sequence (draw.io), **REST/Swagger**, **Postman** (проверка запросов).
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 ---
 
-**Инструменты и нотации:** UML Sequence (draw.io), **SOAP/XML/XSD**, **Postman** (SOAP-коллекции), Markdown.
+**Инструменты и нотации:** UML Sequence (draw.io), **SOAP/XML/XSD**, **Postman** (SOAP-коллекции).
 
 ---
 
